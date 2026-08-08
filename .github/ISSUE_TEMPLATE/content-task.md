@@ -1,67 +1,84 @@
 ---
-name: "📄 Content Processing Workflow"
-about: "ལས་ཀའི་རིམ་པ་དགུ་བརྒྱུད་ནས་ནང་དོན་སྒྲིག་བཟོ་བྱེད་པ།"
+name: "Content Processing Workflow"
+about: "Nine-stage pipeline for processing a text from raw source to course"
 title: "[Project]: "
-labels: "S1-Raw, Status: In Progress"
-assignees: ""
+labels: ["S1-Raw"]
 ---
 
-## 📋 ལས་ཀའི་གནས་བབ། (Progress)
+## Project
 
-- [ ] **དང་པོ། S1 - Raw Sources** (མ་ཕྱི་གསག་སྒྲུབ།)
-- [ ] **གཉིས་པ། S2 - Markups** (རྟགས་འགོད་དང་སྒྲོམ་གཞི།)
-- [ ] **གསུམ་པ། S3 - Links** (སྦྲེལ་མཐུད་དང་གཤིབ་བསྡུར།)
-- [ ] **བཞི་པ། Multi-level Summaries** (ཕྱོགས་བསྡུས་གནད་བསྡུས།)
-- [ ] **ལྔ་པ། R2 - Segments** (དུམ་བུ་སོ་སོའི་འགྲེལ་བཤད།)
-- [ ] **དྲུག་པ། R3 - Keywords** (བརྡ་ཆད་རེའུ་མིག/Wiki)
-- [ ] **བདུན་པ། T1 - Translations & Adaptations** (བསྒྱུར་བཅོས་དང་ལྷུག་འགྲེལ།)
-- [ ] **བརྒྱད་པ། T2 - Plans** (ཉམས་ལེན་དང་སློབ་སྦྱོང་འཆར་གཞི།)
-- [ ] **དགུ་པ། T3 - Courses** (སློབ་ཚན་སྒྲིག་བཟོ།)
+| Field | Value |
+|---|---|
+| Text / Project | |
+| Project Lead | @ |
+| Target date | |
+
+## Roles
+
+- **Owner** — does the work for that stage.
+- **Reviewer** — checks and signs off; the stage is not done until the Reviewer approves.
+
+## Workflow Stages
+
+- [ ] **1. S1 — Raw Sources** · Owner: @ · Reviewer: @
+- [ ] **2. S2 — Markups** · Owner: @ · Reviewer: @
+- [ ] **3. S3 — Links** · Owner: @ · Reviewer: @
+- [ ] **4. Multi-level Summaries** · Owner: @ · Reviewer: @
+- [ ] **5. R2 — Segments** · Owner: @ · Reviewer: @
+- [ ] **6. R3 — Keywords** · Owner: @ · Reviewer: @
+- [ ] **7. T1 — Translations & Adaptations** · Owner: @ · Reviewer: @
+- [ ] **8. T2 — Plans** · Owner: @ · Reviewer: @
+- [ ] **9. T3 — Courses** · Owner: @ · Reviewer: @
 
 ---
 
-## 📝 ལས་ཀའི་ཞིབ་ཆ། (Task Details)
+## Stage Details
 
-### 1️⃣ S1 - Raw Sources
+### 1. S1 — Raw Sources
 
-- [ ] Texts (Root & Commentary)
+- [ ] Texts (root & commentary)
 - [ ] Audios
 - [ ] Videos
-- *Link/Ref:* (མ་ཕྱིའི་འབྲེལ་ཐག་འདིར་འགོད་དགོས།)
+- Source link / reference:
 
-### 2️⃣ S2 - Markups
+### 2. S2 — Markups
 
-- TOC (དཀར་ཆག) བཟོ་རྒྱུ།
-- Chunk IDs (དུམ་མཚམས་ཨང་རྟགས།)
-- Yikchung (ཡིག་ཆུང་།)
-- Citations (ལུང་འདྲེན།)
+- [ ] TOC
+- [ ] Chunk IDs
+- [ ] Yikchung (annotations)
+- [ ] Citations marked
 
-### 3️⃣ S3 - Links
+### 3. S3 — Links
 
-- Align Translation (འགྱུར་གཤིབ་བསྡུར།)
-- Link Commentaries (འགྲེལ་པ་སྦྲེལ་རྒྱུ།)
-- Citation Sources (ལུང་ཁུངས་སྦྲེལ་རྒྱུ།)
+- [ ] Translation aligned
+- [ ] Commentaries linked
+- [ ] Citation sources linked
 
-### 4️⃣ Summaries & Claims
+### 4. Multi-level Summaries
 
-- TOC རེ་རེར་ Claims གཙོ་བོ་རྣམས་ཕྱོགས་བསྡུས་བྱེད་རྒྱུ།
+- [ ] Key claims summarised for each TOC node
 
-### 5️⃣ R2 - Segments
+### 5. R2 — Segments
 
-- དུམ་བུ་རེ་རེར་ཁུངས་ལྡན་གྱི་འགྲེལ་པ་རེ་བཟོ་རྒྱུ། (Authoritative Interpretation)
+- [ ] Authoritative interpretation written for each segment
 
-### 6️⃣ R3 - Keywords
+### 6. R3 — Keywords
 
-- བརྡ་ཆད་གཙོ་བོ་རྣམས་ལ་ Local Wiki Article རེ་བཟོ་རྒྱུ།
+- [ ] Local wiki article written for each key term
 
-### 7️⃣ T1, T2, T3 (Output)
+### 7. T1 — Translations & Adaptations
 
-- **T1:** ཀློག་པ་པོ་གསར་པ་ལ་འཚམ་པའི་ལྷུག་འགྲེལ།
-- **T2:** ཉམས་ལེན་དང་སློབ་སྦྱོང་གི་འཆར་གཞི།
-- **T3:** སློབ་ཚན་གྱི་རྒྱུ་ཆ་དང་སློབ་ཚན་འཆར་ཟིན།
+- [ ] Plain-language rendering for new readers
+
+### 8. T2 — Plans
+
+- [ ] Practice and study plan
+
+### 9. T3 — Courses
+
+- [ ] Course materials
+- [ ] Course outline
 
 ---
 
-## 📎 ཟུར་བཀོད་ཡིག་ཆ། (Notes & Files)
-
-- (འདིར་ལས་ཀའི་བརྒྱུད་རིམ་ནང་གི་ཟིན་ཐོ་གཞན་རྣམས་འགོད་རྒྱུ།)
+## Notes & Files
