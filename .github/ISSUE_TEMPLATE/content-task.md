@@ -104,20 +104,19 @@ What the requester will accept as finished:
 | Doctrinal reviewer | |
 | Target completion | |
 
-**Owner** does the work for that stage. **Reviewer** checks and signs off —
-a stage is not done until the Reviewer approves.
+**Owner** is the person responsible for that stage.
 
 ## B2. Workflow Stages
 
-- [ ] **1. S1 — Raw Sources** · Owner: @ · Reviewer: @
-- [ ] **2. S2 — Markups** · Owner: @ · Reviewer: @
-- [ ] **3. S3 — Links** · Owner: @ · Reviewer: @
-- [ ] **4. Multi-level Summaries** · Owner: @ · Reviewer: @
-- [ ] **5. R2 — Segments** · Owner: @ · Reviewer: @
-- [ ] **6. R3 — Keywords** · Owner: @ · Reviewer: @
-- [ ] **7. T1 — Translations & Adaptations** · Owner: @ · Reviewer: @
-- [ ] **8. T2 — Plans** · Owner: @ · Reviewer: @
-- [ ] **9. T3 — Courses** · Owner: @ · Reviewer: @
+- [ ] **1. S1 — Raw Sources** · Owner: @
+- [ ] **2. S2 — Markups** · Owner: @
+- [ ] **3. S3 — Links** · Owner: @
+- [ ] **4. Multi-level Summaries** · Owner: @
+- [ ] **5. R2 — Segments** · Owner: @
+- [ ] **6. R3 — Keywords** · Owner: @
+- [ ] **7. T1 — Translations & Adaptations** · Owner: @
+- [ ] **8. T2 — Plans** · Owner: @
+- [ ] **9. T3 — Courses** · Owner: @
 
 ## B3. Stage Details
 
