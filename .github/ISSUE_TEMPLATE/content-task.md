@@ -1,5 +1,5 @@
 | Field | Value |
-|---|---|
+|--|---|
 | Project Lead | @ |
 | Doctrinal reviewer | |
 | Target completion | |
