@@ -1,77 +1,46 @@
-| Field | Value |
-|--|---|
-| Project Lead | @ |
-| Doctrinal reviewer | |
-| Target completion | |
+---
+name: "Content Task"
+about: "Nine-stage pipeline for turning a source text into published content"
+title: "[Project]: "
+labels: ["S1-Raw"]
+---
 
-**Owner** is the person responsible for that stage.
+<!-- One card per source text. Fill in the Overview, assign an Owner to each
+     stage in scope, and tick a stage when its Owner has finished it. -->
 
-## B2. Workflow Stages
+## Overview
+
+- Source text: 
+- Project Lead: @
+- Current stage: S1 — Raw Sources
+- Deadline: 
+
+## Workflow Stages
+
+Assign an **Owner** to each stage in scope; tick it when the Owner is done.
+
+**Sources**
 
 - [ ] **1. S1 — Raw Sources** · Owner: @
 - [ ] **2. S2 — Markups** · Owner: @
 - [ ] **3. S3 — Links** · Owner: @
+
+**Refine**
+
 - [ ] **4. Multi-level Summaries** · Owner: @
 - [ ] **5. R2 — Segments** · Owner: @
 - [ ] **6. R3 — Keywords** · Owner: @
+
+**Translate & Teach**
+
 - [ ] **7. T1 — Translations & Adaptations** · Owner: @
 - [ ] **8. T2 — Plans** · Owner: @
 - [ ] **9. T3 — Courses** · Owner: @
 
-## B3. Stage Details
+## Done when
 
-### 1. S1 — Raw Sources
-
-- [ ] Texts (root & commentary)
-- [ ] Audios
-- [ ] Videos
-- Source link / reference: 
-
-### 2. S2 — Markups
-
-- [ ] TOC
-- [ ] Chunk IDs
-- [ ] Yikchung (annotations)
-- [ ] Citations marked
-
-### 3. S3 — Links
-
-- [ ] Translation aligned
-- [ ] Commentaries linked
-- [ ] Citation sources linked
-
-### 4. Multi-level Summaries
-
-- [ ] Key claims summarised for each TOC node
-
-### 5. R2 — Segments
-
-- [ ] Authoritative interpretation written for each segment
-
-### 6. R3 — Keywords
-
-- [ ] Local wiki article written for each key term
-
-### 7. T1 — Translations & Adaptations
-
-- [ ] Plain-language rendering for new readers
-
-### 8. T2 — Plans
-
-- [ ] Practice and study plan
-
-### 9. T3 — Courses
-
-- [ ] Course materials
-- [ ] Course outline
-
-## B4. Handover
-
-- [ ] Doctrinal review passed
-- [ ] Delivered to requester — date: 
-- [ ] Requester confirmed acceptance
-- [ ] Published — link: 
-
----
+- 
 
 ## Notes & Files
+
+- 
